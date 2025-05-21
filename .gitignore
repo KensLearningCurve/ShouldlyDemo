@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ShouldlyDemo.XUnitTests/.vs/ShouldlyDemo.XUnitTests
+/.vs
+/ShouldlyDemo.XUnitTests/ShouldlyDemo.XUnitTests/bin/Debug/net8.0
+/ShouldlyDemo.XUnitTests/ShouldlyDemo.XUnitTests/obj
+/ShouldlyDemo.XUnitTests/.vs/ProjectEvaluation
+/ShouldlyDemo.XUnitTests/ShouldlyDemo.Business/bin/Debug/net8.0
+/ShouldlyDemo.XUnitTests/ShouldlyDemo.Business/obj
